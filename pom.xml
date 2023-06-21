@@ -15,4 +15,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <properties>
+    <sonar.organization>shochmut-1</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
 </project>
